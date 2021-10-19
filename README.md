@@ -25,10 +25,6 @@ The Immuta platform solves both problems by providing a single, unified access p
 
 Immuta provides a consistent point of access for all data analysis and dynamically protects your data with complex policies – enforced based on the user accessing the data and the logic of the policy – creating efficient digital data exchanges compliant with organizations' regulations with complete visibility of policy enforcement. 
 
-Be sure to:
-
-* Edit your repository description on GitHub
-
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
