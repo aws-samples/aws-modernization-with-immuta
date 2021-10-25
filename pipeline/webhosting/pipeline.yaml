@@ -11,7 +11,7 @@ Parameters:
   ProjectName:
     Type: String
     Description: Project Name
-    Default: immuta.awsworkshop.io
+    Default: immuta
   WebsiteBucket:
     Type: String
     Description: Website S3 bucket name
