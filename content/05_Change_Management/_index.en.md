@@ -9,9 +9,13 @@ weight = 6
 
  **Owen**,  owner@immuta.com has successfully protected access to credit card transactions utilizing **Masking** and **Row Filtering**. 
 
-In this final module, we explore how Immuta supports Exceptions, Reporting, and Auditability. 
+In this final module, we explore how Immuta streamlines work when there are Exceptions, Reporting, and Auditability requirements. 
 
-ABC Corp needs to be able to clearly understand how data sources, user attributes, and policies change over time.
+ABC Corp needs to be able to clearly understand how data sources, user attributes, and policies change over time. Also, since Anne will occasionally need to investigate a specific transaction, we will configure immuta to make the credit card number masked, but reversible by Manny.  
+
+
+
+Does Immuta support all of these scenarios?  Let's find out...
 
 In this module you will:
 

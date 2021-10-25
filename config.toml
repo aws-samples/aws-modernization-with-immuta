@@ -3,7 +3,7 @@ languageCode = "en-US"
 defaultContentLanguage = "en"
 
 title = "Data Governance & Access Control Workshop with Immuta"
-theme = "learn"
+theme = "hugo-theme-learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= "true"
 uglyurls = "true"

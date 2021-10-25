@@ -10,6 +10,10 @@ You should only need to change the parameter for WorkshopHostname.  Once that is
 ```
 ### DO NOT FORGET TO CHANGE THE STACK NAME
 aws cloudformation create-stack --stack-name MY-Workshop --template-body file://cloudfront-s3-website.yaml --enable-termination-protection
+
+
+### For Immuta website the command will be following: 
+aws cloudformation create-stack --stack-name immuta-dg-workshop --template-body file://cloudfront-s3-website.yaml --enable-termination-protection
 ```
 
 ### 2. Edit and deploy the pipeline in pipeline.yaml.  

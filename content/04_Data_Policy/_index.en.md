@@ -12,14 +12,15 @@ Anne and Manny are now able to access the credit card data. However, *<u>none of
 
 
 
-The CDO wants to know if Owen can create a Data Policy so that Manny and Anne are not able to see the Credit Card Number?
-Let's find out...
+The CDO wants to know if Owen can create a Data Policy so that Anne is not able to see the Credit Card Number, but Manny can see them.  Also, Analysts have a Country attribute which specifies which countries they can see data for. 
+
+How can Immuta enforce these policies? Let's find out...
 
 In this module you will:
 
 - Login to Immuta as **Owen** and inspect the existing Attribute Names and values
 
-- Use the Attributes to Create a "**Global Data Policy**" that carefullly controls how Manny and Anne see the credit card transactions
+- Use the Attributes to Create a "**Global Data Policy**" that carefullly controls how Manny and Anne see the credit card transaction data.
 
 - Login to Immuta as **Anne** and **Manny** and confirm policy behavior
 
